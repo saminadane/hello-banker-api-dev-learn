@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+data/db/hello-banker.db
+venv
